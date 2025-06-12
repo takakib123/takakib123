@@ -1,16 +1,81 @@
-## Hi there 👋
+👋 Welcome to My GitHub!
 
-<!--
-**takakib123/takakib123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Tanvir Ahmed Khan! I'm a undergraduate student passionate about machine learning, computer vision and NLP. I love building tools and solutions that make a difference.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+🔍 Currently working on [e.g., neural network compression, image processing pipelines]
+
+
+
+🌱 Learning [e.g., advanced RL techniques, PyTorch optimizations]
+
+
+
+
+
+
+
+🎯 Goal: Contributing to impactful AI projects, Efficient model deployment]
+
+🛠️ Skills
+
+
+
+
+
+Languages: Python, C++, Matlab
+
+
+
+Frameworks: PyTorch, TensorFlow, Transformers
+
+
+
+Tools: Git, Jupyter, Hugging Face
+
+
+
+Domains: Machine Learning, Computer Vision, Neural Network Optimization
+
+📌 Featured Projects
+
+
+
+
+
+Project Name 1: A repository for structurally pruning LLaVA a vision language model
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+📬 Get in Touch
+
+
+
+
+
+🌐 Your Website or Portfolio
+takakib123.github.io
+
+
+💼 LinkedIn[https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
+
+
+
+📧 Your Email
+
+takakib123@gmail.com
+
+
+Thanks for visiting! Let's connect and build something awesome! 🚀
