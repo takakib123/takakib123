@@ -8,11 +8,11 @@ Hi, I'm Tanvir Ahmed Khan! I'm a undergraduate student passionate about machine 
 
 
 
-🔍 Currently working on [e.g., neural network compression, image processing pipelines]
+🔍 Currently working on neural network compression, image processing pipelines
 
 
 
-🌱 Learning [e.g., advanced RL techniques, PyTorch optimizations]
+🌱 Learning advanced RL techniques, PyTorch optimizations
 
 
 
@@ -20,7 +20,7 @@ Hi, I'm Tanvir Ahmed Khan! I'm a undergraduate student passionate about machine 
 
 
 
-🎯 Goal: Contributing to impactful AI projects, Efficient model deployment]
+🎯 Goal: Contributing to impactful AI projects, Efficient model deployment
 
 🛠️ Skills
 
@@ -48,34 +48,21 @@ Domains: Machine Learning, Computer Vision, Neural Network Optimization
 
 
 
-Project Name 1: A repository for structurally pruning LLaVA a vision language model
-
-
-📊 GitHub Stats
+Project Name 1: A repository for structurally pruning LLaVA a vision language model [https://github.com/takakib123/LLaVA_Prune]
 
 
 
 
 
 
-
-📬 Get in Touch
-
+🌐 Portfolio: [takakib123.github.io]
 
 
-
-
-🌐 Your Website or Portfolio
-takakib123.github.io
-
-
-💼 LinkedIn[https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
+💼 LinkedIn: [https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
 
 
 
-📧 Your Email
-
-takakib123@gmail.com
+📧 Email: tanvirahmedkhan0601[at]gmail[dot]com
 
 
 Thanks for visiting! Let's connect and build something awesome! 🚀
