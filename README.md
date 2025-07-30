@@ -49,7 +49,7 @@ Project Name 1: A repository for structurally pruning LLaVA a vision language mo
 
 
 
-🌐 Portfolio: [takakib123.github.io]
+🌐 Portfolio: [[takakib123.github.io]]
 
 
 💼 LinkedIn: [https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
