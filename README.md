@@ -48,10 +48,10 @@ Domains: Machine Learning, Computer Vision
 A repository for structurally pruning LLaVA a vision language model. [Code](https://github.com/takakib123/LLaVA_Prune)
 
 
-🌐 [Portfolio](takakib123.github.io)
+🌐 [Portfolio](https://takakib123.github.io/)
 
 
-💼 [LinkedIn](ttps://www.linkedin.com/in/tanvir-ahmed-26602a231/)
+💼 [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-26602a231/)
 
 
 
