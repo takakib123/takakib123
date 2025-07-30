@@ -40,18 +40,12 @@ Tools: Git, Jupyter, Hugging Face
 
 
 
-Domains: Machine Learning, Computer Vision, Neural Network Optimization
+Domains: Machine Learning, Computer Vision
 
 📌 Featured Projects
 
 
-
-
-
 Project Name 1: A repository for structurally pruning LLaVA a vision language model [https://github.com/takakib123/LLaVA_Prune]
-
-
-
 
 
 
@@ -60,9 +54,6 @@ Project Name 1: A repository for structurally pruning LLaVA a vision language mo
 
 💼 LinkedIn: [https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
 
-
-
-📧 Email: tanvirahmedkhan0601[at]gmail[dot]com
 
 
 Thanks for visiting! Let's connect and build something awesome! 🚀
