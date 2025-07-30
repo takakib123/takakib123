@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub!
 
-Hi, I'm Tanvir Ahmed Khan! I'm a undergraduate student passionate about machine learning, computer vision and NLP. I love building tools and solutions that make a difference.
+Hi, I'm Tanvir Ahmed Khan! I'm a recent graduate student passionate about machine learning, computer vision and NLP. I love building tools and solutions that make a difference.
 
 🚀 About Me
 
@@ -45,14 +45,13 @@ Domains: Machine Learning, Computer Vision
 📌 Featured Projects
 
 
-Project Name 1: A repository for structurally pruning LLaVA a vision language model [https://github.com/takakib123/LLaVA_Prune]
+A repository for structurally pruning LLaVA a vision language model. [Code](https://github.com/takakib123/LLaVA_Prune)
 
 
+🌐 [Portfolio](takakib123.github.io)
 
-🌐 Portfolio: [[takakib123.github.io]]
 
-
-💼 LinkedIn: [https://www.linkedin.com/in/tanvir-ahmed-26602a231/]
+💼 [LinkedIn](ttps://www.linkedin.com/in/tanvir-ahmed-26602a231/)
 
 
 
