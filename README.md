@@ -1,38 +1,32 @@
-#👋 Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 
-Hi, I'm Tanvir Ahmed Khan! I'm a recent graduate student passionate about machine learning, computer vision and NLP. I love building tools and solutions that make a difference.
+Hi, I'm **Tanvir Ahmed Khan** — a recent graduate passionate about **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. I love building tools and solutions that make a difference.
 
-##**🛠️ Skills**
+---
 
+## 🛠️ Skills
 
+| Category     | Technologies                                  |
+|--------------|-----------------------------------------------|
+| **Languages**   | Python, C++, MATLAB                          |
+| **Frameworks**  | PyTorch, TensorFlow, Transformers            |
+| **Tools**       | Git, Jupyter, Hugging Face                   |
+| **Domains**     | Machine Learning, Computer Vision            |
 
+---
 
+## 📌 Featured Projects
 
-**Languages**: Python, C++, Matlab
+- 🔍 **LLaVA Pruning**: A repository for structurally pruning LLaVA, a vision-language model.  
+  [View Code](https://github.com/takakib123/LLaVA_Prune)
 
+---
 
+## 🌐 Connect with Me
 
-**Frameworks**: PyTorch, TensorFlow, Transformers
+- 🖥️ [**Portfolio Website**](https://takakib123.github.io/)
+- 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/tanvir-ahmed-26602a231/)
 
+---
 
-
-**Tools**: Git, Jupyter, Hugging Face
-
-
-
-**Domains**: Machine Learning, Computer Vision
-
-##📌 Featured Projects
-
-
-A repository for structurally pruning LLaVA a vision language model. [Code](https://github.com/takakib123/LLaVA_Prune)
-
-
-🌐 [**Portfolio**](https://takakib123.github.io/)
-
-
-💼 [**LinkedIn**](https://www.linkedin.com/in/tanvir-ahmed-26602a231/)
-
-
-
-Thanks for visiting! Let's connect and build something awesome! 🚀
+Thanks for visiting! Let's connect and build something awesome 🚀
