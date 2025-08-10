@@ -1,57 +1,37 @@
-👋 Welcome to My GitHub!
+#👋 Welcome to My GitHub!
 
 Hi, I'm Tanvir Ahmed Khan! I'm a recent graduate student passionate about machine learning, computer vision and NLP. I love building tools and solutions that make a difference.
 
-🚀 About Me
+##**🛠️ Skills**
 
 
 
 
 
-🔍 Currently working on neural network compression, image processing pipelines
+**Languages**: Python, C++, Matlab
 
 
 
-🌱 Learning advanced RL techniques, PyTorch optimizations
+**Frameworks**: PyTorch, TensorFlow, Transformers
 
 
 
+**Tools**: Git, Jupyter, Hugging Face
 
 
 
+**Domains**: Machine Learning, Computer Vision
 
-🎯 Goal: Contributing to impactful AI projects, Efficient model deployment
-
-🛠️ Skills
-
-
-
-
-
-Languages: Python, C++, Matlab
-
-
-
-Frameworks: PyTorch, TensorFlow, Transformers
-
-
-
-Tools: Git, Jupyter, Hugging Face
-
-
-
-Domains: Machine Learning, Computer Vision
-
-📌 Featured Projects
+##📌 Featured Projects
 
 
 A repository for structurally pruning LLaVA a vision language model. [Code](https://github.com/takakib123/LLaVA_Prune)
 
 
-🌐 [Portfolio](https://takakib123.github.io/)
+🌐 [**Portfolio**](https://takakib123.github.io/)
 
 
-💼 [LinkedIn](https://www.linkedin.com/in/tanvir-ahmed-26602a231/)
+💼 [**LinkedIn**](https://www.linkedin.com/in/tanvir-ahmed-26602a231/)
 
 
 
